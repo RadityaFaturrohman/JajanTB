@@ -275,27 +275,14 @@
 @section('customjs')
 <script>
     
-    window.onload = function() {
 
-        const descriptbtn = document.getElementById('descbtn');
-        const revbtn = document.getElementById('revbtn');
-        const descript = document.getElementById('description');
-        const review = document.getElementById('review');
+        const descriptbtn = document.querySelector('#descbtn');
+        const revbtn = document.querySelector('#revbtn');
+        const descript = document.querySelector('#description');
+        const review = document.querySelector('#review');
         
-    }
     
     function desc(){
-        descript.classList.add('hidden');
-        review.classList.remove('hidden');
-        descriptbtn.classList.add('grayscale');
-        descriptbtn.classList.remove('border-b-2');
-        revbtn.classList.remove('grayscale');
-        revbtn.classList.add('border-b-2');
-        revbtn.classList.remove('hover:border-b');
-        descriptbtn.classList.add('hover:border-b');
-    }
-
-    function rev(){
         descript.classList.remove('hidden');
         review.classList.add('hidden');
         descriptbtn.classList.remove('grayscale');
@@ -304,6 +291,17 @@
         revbtn.classList.remove('border-b-2');
         revbtn.classList.add('hover:border-b');
         descriptbtn.classList.remove('hover:border-b');
+    }
+
+    function rev(){
+        descript.classList.add('hidden');
+        review.classList.remove('hidden');
+        descriptbtn.classList.add('grayscale');
+        descriptbtn.classList.remove('border-b-2');
+        revbtn.classList.remove('grayscale');
+        revbtn.classList.add('border-b-2');
+        revbtn.classList.remove('hover:border-b');
+        descriptbtn.classList.add('hover:border-b');
     }
 </script>
 @endsection
