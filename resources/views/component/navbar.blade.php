@@ -1,4 +1,4 @@
-<nav class="bg-transparent w-full h-20 px-50px flex justify-between items-center font-heebo fixed top-0 transition-all ease duration-500 z-50">
+<nav class="anim bg-transparent w-full h-20 px-50px flex justify-between items-center font-heebo fixed top-0 transition-all ease duration-500 z-50">
 
     <div class="flex gap-10 justify-center items-center">
 

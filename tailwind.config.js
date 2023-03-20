@@ -27,18 +27,30 @@ module.exports = {
         '2px': '0.125rem',
         '3px': '0.188rem',
         '5px': '0.313rem',
+        '6px': '0.375rem',
+        '9px': '0.563rem',
         '50px': '3.563rem',
         '95px': '5.938rem',
         '260px': '16.25rem',
+        '500px': '28.125rem',
+        '530px': '33.125rem',
+        '550px': '34.375rem',
+        '750px': '39rem',
+        '900px': '47rem',
         '1190px': '74.375rem',
       },
       fontFamily:{
         'heebo': 'Heebo',
-        'poppins': 'Poppins, sans-serif'
+        'poppins': 'Poppins, sans-serif',
+        'jakarta': 'Plus Jakarta Sans, sans-serif'
       },
       letterSpacing:{
         '2%': '2%',
         '5%': '5%',
+      },
+      fontSize:{
+        '8': '8px',
+        '10': '10px',
       },
     },
   },

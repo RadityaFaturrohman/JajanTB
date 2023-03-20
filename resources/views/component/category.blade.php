@@ -23,22 +23,22 @@
     </div>
 
     <div class="w-1190px h-20 flex justify-between">
-        <div class="w-260px h-60 bg-cover bg-center text-white font-medium relative rounded flex items-end group/categ overflow-hidden cursor-pointer" style="box-shadow: inset 0px -88px 50px rgba(0, 0, 0, 0.25); filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
+        <div class="w-260px h-60 bg-cover bg-center text-white font-medium relative rounded flex items-end group/categ overflow-hidden anim -translate-x-1 cursor-pointer" style="box-shadow: inset 0px -88px 50px rgba(0, 0, 0, 0.25); filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
             <div class="w-full h-full bg-cover bg-center group-hover/categ:scale-105 transition-all ease duration-500" style="background-image: url({{asset('img/minuman.jpg')}});"></div>
             <p class="absolute ml-4 m-3">Soft Drinks</p>
         </div>
 
-        <div class="w-260px h-60 bg-cover bg-center text-white font-medium relative rounded flex items-end group/categ overflow-hidden cursor-pointer" style="box-shadow: inset 0px -88px 50px rgba(0, 0, 0, 0.25); filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
+        <div class="w-260px h-60 bg-cover bg-center text-white font-medium relative rounded flex items-end group/categ overflow-hidden anim -translate-x-3 cursor-pointer" style="box-shadow: inset 0px -88px 50px rgba(0, 0, 0, 0.25); filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
             <div class="w-full h-full bg-cover bg-center group-hover/categ:scale-105 transition-all ease duration-500" style="background-image: url({{asset('img/snack.jpg')}});"></div>
             <p class="absolute ml-4 m-3">Snacks</p>
         </div>
 
-        <div class="w-260px h-60 bg-cover bg-center text-white font-medium relative rounded flex items-end group/categ overflow-hidden cursor-pointer" style="box-shadow: inset 0px -88px 50px rgba(0, 0, 0, 0.25); filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
+        <div class="w-260px h-60 bg-cover bg-center text-white font-medium relative rounded flex items-end group/categ overflow-hidden anim -translate-x-5 cursor-pointer" style="box-shadow: inset 0px -88px 50px rgba(0, 0, 0, 0.25); filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
             <div class="w-full h-full bg-cover bg-center group-hover/categ:scale-105 transition-all ease duration-500" style="background-image: url({{asset('img/eskrim.jpg')}});"></div>
             <p class="absolute ml-4 m-3">Ice Creams</p>
         </div>
 
-        <div class="w-260px h-60 bg-cover bg-center text-white font-medium relative rounded flex items-end group/categ overflow-hidden cursor-pointer" style="box-shadow: inset 0px -88px 50px rgba(0, 0, 0, 0.25); filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
+        <div class="w-260px h-60 bg-cover bg-center text-white font-medium relative rounded flex items-end group/categ overflow-hidden anim -translate-x-7 cursor-pointer" style="box-shadow: inset 0px -88px 50px rgba(0, 0, 0, 0.25); filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));">
             <div class="w-full h-full bg-cover bg-center group-hover/categ:scale-105 transition-all ease duration-500" style="background-image: url({{asset('img/Burgir.jpg')}});"></div>
             <p class="absolute ml-4 m-3">Heavy Meals</p>
         </div>

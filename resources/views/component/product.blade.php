@@ -14,7 +14,7 @@
 
             <div class="flex w-1190px h-60 mt-4 justify-between">
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg rounded-lg overflow-hidden">
+                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden">
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -46,7 +46,7 @@
                     </div>
                 </div>
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg rounded-lg overflow-hidden" >
+                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -78,7 +78,7 @@
                     </div>
                 </div>
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg rounded-lg overflow-hidden" >
+                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -110,7 +110,7 @@
                     </div>
                 </div>
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg rounded-lg overflow-hidden" >
+                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -155,7 +155,7 @@
 
             <div class="flex w-1190px h-60 mt-4 justify-between">
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg rounded-lg overflow-hidden" >
+                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -187,7 +187,7 @@
                     </div>
                 </div>
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg rounded-lg overflow-hidden" >
+                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -219,7 +219,7 @@
                     </div>
                 </div>
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg rounded-lg overflow-hidden" >
+                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -251,7 +251,7 @@
                     </div>
                 </div>
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg rounded-lg overflow-hidden" >
+                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
