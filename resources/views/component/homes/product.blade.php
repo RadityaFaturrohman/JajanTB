@@ -14,7 +14,7 @@
 
             <div class="flex w-1190px h-60 mt-4 justify-between">
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden">
+                <a href="/details"><div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden">
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -44,9 +44,9 @@
                         <p class="text-xs font-medium text-light-grey-main opacity-90 my-1">87 Reviews</p>
                         <p class="font-semibold text-black-main-200 mt-1">Rp. 50.000</p>
                     </div>
-                </div>
+                </div></a>
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
+                <a href="/details"><div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -76,9 +76,9 @@
                         <p class="text-xs font-medium text-light-grey-main opacity-90 my-1">87 Reviews</p>
                         <p class="font-semibold text-black-main-200 mt-1">Rp. 50.000</p>
                     </div>
-                </div>
+                </div></a>
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
+                <a href="/details"><div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -108,9 +108,9 @@
                         <p class="text-xs font-medium text-light-grey-main opacity-90 my-1">87 Reviews</p>
                         <p class="font-semibold text-black-main-200 mt-1">Rp. 50.000</p>
                     </div>
-                </div>
+                </div></a>
 
-                <div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
+                <a href="/details"><div class="w-260px h-96 flex flex-col justify-start items-start cursor-pointer transition-all ease duration-300 hover:drop-shadow-lg anim -translate-y-2 rounded-lg overflow-hidden" >
                     <div class="w-full h-60 bg-light-blue-main flex justify-center items-center">
                         <div class="w-2/3 h-48 bg-cover" style="background-image: url({{asset('img/lays.png')}})"></div>
                     </div>
@@ -140,7 +140,7 @@
                         <p class="text-xs font-medium text-light-grey-main opacity-90 my-1">87 Reviews</p>
                         <p class="font-semibold text-black-main-200 mt-1">Rp. 50.000</p>
                     </div>
-                </div>
+                </div></a>
 
             </div>
         </div>

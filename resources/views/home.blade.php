@@ -9,13 +9,13 @@
         @include('component.navbar')
 
         <!-- Hero -->
-        @include('component.hero')
+        @include('component.homes.hero')
 
         <!-- Category -->
-        @include('component.category')
+        @include('component.homes.category')
 
         <!-- Product -->
-        @include('component.product')
+        @include('component.homes.product')
 
         @include('component.footer')
 

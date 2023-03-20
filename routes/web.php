@@ -24,3 +24,11 @@ Route::get('/details', function () {
 Route::get('/login', function () {
     return view('login');
 });
+
+Route::get('/checkout', function () {
+    return view('checkout');
+});
+
+Route::get('/order', function () {
+    return view('order');
+});
